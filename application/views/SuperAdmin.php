@@ -1,0 +1,1 @@
+<a href="<?= base_url('SuperAdmin/imk_admin') ?>" class="btn btn-danger">Tambah Admin</a>
